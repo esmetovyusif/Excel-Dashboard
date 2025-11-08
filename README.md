@@ -1,4 +1,5 @@
-**Müştəri və Məhsul Analizi Dashboard (Excel)**
+**Müştəri və Məhsul Analizi Dashboardı**
+
 **Bu dashboard müştəri gəliri, məhsul miqdarı və mənfəət üzrə vizual analiz təqdim edir. Burada:**
 
 **Gəlir və mənfəət trendleri aylıq və bölgələr üzrə izlənir.**
