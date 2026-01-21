@@ -9,4 +9,4 @@
 **İstifadəçi il, ay, region, kateqoriya və məhsul növü üzrə filter-lərlə analizi fərdiləşdirə bilir.**
 
 
-![Excel Dashboard](Excel dashboard.png)
+![Excel Dashboard](Exceldashboard.png)
